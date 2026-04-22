@@ -1,2 +1,7 @@
-# demo-brugo-maria
-Demo web para Brugo, María — diseñada por eterlab.
+# Brugo, María
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
